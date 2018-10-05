@@ -1,9 +1,9 @@
-![screenshot](https://imgur.com/a/VEgYHen)
+![screenshot](https://i.imgur.com/FEqPXd3.png)
 
-Live demo: [here](https://nameless-stream-18525.herokuapp.com/)
-Front-end: React
-Back-end:  Node/Express
-Deploy: Heroku
+### Live demo: [here](https://nameless-stream-18525.herokuapp.com/)
+### Front-end: React
+### Back-end:  Node/Express
+### Deploy: Heroku
 
 ## Scripts
 
@@ -25,6 +25,3 @@ Runs the app in the development mode under the root directory:
 cd ..
 npm run dev
 ```
-
-
-
